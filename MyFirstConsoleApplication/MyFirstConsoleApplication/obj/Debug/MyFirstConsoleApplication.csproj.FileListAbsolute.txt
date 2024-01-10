@@ -1,0 +1,7 @@
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\foard\OneDrive\Desktop\Classes\Code\CSE-325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
